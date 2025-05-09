@@ -69,7 +69,7 @@
 - 📧 Email: <a href="mailto:samandar@example.com">samandar@google.com</a>
 - 🔗 LinkedIn: [linkedin.com/in/samandar8283](https://linkedin.com/in/samandar8283)
 - 🙍🏼‍♂️ Portfolio: [yusupov-samandarbek.netlify.app](https://yusupov-samandarbek.netlify.app)
-- 📞 Phone number: <a href="tel: +998881658283">+998 88 165 82 83</a>
+- 📞 Phone number: <a href="mailto: +998881658283">+998 88 165 82 83</a>
 
 ---
 
