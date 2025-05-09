@@ -67,7 +67,7 @@
 ## 📫 Get in Touch
 
 - 📧 Email: <a href="mailto:samandar@example.com">samandar@google.com</a>
-- <image src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkein logo"> LinkedIn: [linkedin.com/in/samandar8283](https://linkedin.com/in/samandar8283)
+- <image src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkein logo" width="20px"> LinkedIn: [linkedin.com/in/samandar8283](https://linkedin.com/in/samandar8283)
 - 🙍🏼‍♂️ Portfolio: [yusupov-samandarbek.netlify.app](https://yusupov-samandarbek.netlify.app)
 
 ---
