@@ -74,5 +74,8 @@
 ---
 
 <p align="center">
-  <b>“Code is like humor. When you have to explain it, it’s bad.”</b> 😄
+  <b>“It always seems impossible until it's done.”</b>
+</p>
+<p align="end">
+  Nelson Mandela
 </p>
