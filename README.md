@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
 - 🎓 I'm a 3rd-year student majoring in **Cybersecurity**
 - 🌐 I love building real-world **Web** projects
@@ -25,7 +25,7 @@
   <summary>🖥️ "Yusupov Samandarbek" - Portfolio</summary>
   <ul>
     <li>Showcasing my projects, technical skills, and blog posts in web development.</li>
-    <li><strong>🚀 Technologies:</strong>
+    <li><strong>🛠️ Technologies:</strong>
       <ul>
         <li>HTML, CSS, JavaScript</li>
         <li>Bootstrap, Sass</li>
@@ -40,7 +40,7 @@
   <summary>🏗️ "Construction Company" - Monitoring System</summary>
   <ul>
     <li>A desktop application for monitoring construction company activities.</li>
-    <li><strong>🚀 Technologies used:</strong>
+    <li><strong>🛠️ Technologies used:</strong>
       <ul>
         <li>🖥️ UI: Windows Forms (.NET Framework)</li>
         <li>👨‍💻 Programming Language: C#</li>
@@ -66,7 +66,7 @@
 
 ## 📫 Get in Touch
 
-- Email: <a href="mailto:samandar@example.com">samandar@example.com</a>
+- Email: <a href="mailto:samandar@example.com">samandar@google.com</a>
 - LinkedIn: [linkedin.com/in/samandar8283](https://linkedin.com/in/samandar8283)
 - Portfolio: _coming soon..._
 
