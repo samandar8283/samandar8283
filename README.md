@@ -74,8 +74,5 @@
 ---
 
 <p align="center">
-  <b>“It always seems impossible until it's done.”</b>
-</p>
-<p align="end">
-  Nelson Mandela
+  <b>“It always seems impossible until it's done.”</b> — Nelson Mandela
 </p>
