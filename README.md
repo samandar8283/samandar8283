@@ -68,7 +68,7 @@
 
 - Email: <a href="mailto:samandar@example.com">samandar@google.com</a>
 - LinkedIn: [linkedin.com/in/samandar8283](https://linkedin.com/in/samandar8283)
-- Portfolio: _coming soon..._
+- Portfolio: [yusupov-samandarbek.netlify.app](https://yusupov-samandarbek.netlify.app)
 
 ---
 
