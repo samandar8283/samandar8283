@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi there, I'm Samandarbek Yusupov!</h1>
 
-<table>
+<table border="0">
   <tr>
     <td>
       <img src="https://komarev.com/ghpvc/?username=samandar8283&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
     </td>
-    <td>
+    <td align="center">
       <b>🚀 Aspiring Full-Stack Developer | 🎯 Passionate about learning & building</b>
     </td>
   </tr>
