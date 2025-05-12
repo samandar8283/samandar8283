@@ -22,7 +22,7 @@
 ## 💼 Projects
 
 <details>
-  <summary>🖥️ "Yusupov Samandarbek" - Portfolio</summary>
+  <summary>🖥️ "Yusupov Samandarbek" - Shaxsiy Portfolio</summary>
   <ul>
     <li>Showcasing my projects, technical skills, and blog posts in web development.</li>
     <li><strong>🛠️ Technologies:</strong>
