@@ -49,7 +49,23 @@
         <li>🔧 Git & GitHub for version control</li>
       </ul>
     </li>
-    <li><a href="https://github.com/samandar8283/Construction_Company">🌐 Visit repository</a></li>
+    <li><a href="https://github.com/samandar8283/Construction_Company">📂 Visit repository</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>🎲 "PRNG" - Random Number Generator</summary>
+  <ul>
+    <li>A project focused on creating pseudo-random number generators using various mathematical algorithms on the Arduino platform.</li>
+    <li><strong>🛠️ Technologies used:</strong>
+      <ul>
+        <li>🖥️ IDE: Arduino</li>
+        <li>👨‍💻 Programming Language: C++</li>
+        <li>📟 Simulator: Microsoft SQL Server</li>
+        <li>🔧 Git & GitHub for version control</li>
+      </ul>
+    </li>
+    <li><a href="https://www.tinkercad.com/things/hICXAOyO9nS-pseudorandomnumbergenerator">🔗 Visit Tinkercad project</a></li>
   </ul>
 </details>
 
