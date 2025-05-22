@@ -61,7 +61,7 @@
       <ul>
         <li>🖥️ IDE: Arduino</li>
         <li>👨‍💻 Programming Language: C++</li>
-        <li>📟 Simulator: Microsoft SQL Server</li>
+        <li>📟 Simulator: Tinkercad</li>
         <li>🔧 Git & GitHub for version control</li>
       </ul>
     </li>
