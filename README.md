@@ -82,7 +82,7 @@
 
 ## 📫 Get in Touch
 
-- 📧 Email: <a href="mailto:samandar@example.com">samandar@google.com</a>
+- 📧 Email: <a href="mailto:samandar8283@gmail.com">samandar8283@gmail.com</a>
 - 🔗 LinkedIn: [linkedin.com/in/samandar8283](https://linkedin.com/in/samandar8283)
 - 🙍🏼‍♂️ Portfolio: [yusupov-samandarbek.netlify.app](https://yusupov-samandarbek.netlify.app)
 - 📞 Phone number: <a href="tel: +998881658283">+998 88 165 82 83</a>
