@@ -70,7 +70,7 @@
 </details>
 
 <details>
-  <summary>🎲 "IPScannerBot" - Vulnerability Scanner Bot for Information Systems</summary>
+  <summary>🛡️ "IPScannerBot" - Vulnerability Scanner Bot for Information Systems</summary>
   <ul>
     <li>This project helps users automatically scan and detect vulnerabilities in networks and web applications. It integrates with powerful tools like <code>Nmap</code>, <code>SQLmap</code>, and <code>Nikto</code>, providing a simple interactive terminal interface.</li>
     <li><strong>🛠️ Technologies used:</strong>
