@@ -69,6 +69,22 @@
   </ul>
 </details>
 
+<details>
+  <summary>🎲 "IPScannerBot" - Vulnerability Scanner Bot for Information Systems</summary>
+  <ul>
+    <li>This project helps users automatically scan and detect vulnerabilities in networks and web applications. It integrates with powerful tools like <code>Nmap</code>, <code>SQLmap</code>, and <code>Nikto</code>, providing a simple interactive terminal interface.</li>
+    <li><strong>🛠️ Technologies used:</strong>
+      <ul>
+        <li>🖥️ OS: Linux Ubuntu</li>
+        <li>👨‍💻 Programming Language: Python</li>
+        <li>📟 Tools: Nmap, SQLmap, Nikto</li>
+        <li>🔧 Git & GitHub for version control</li>
+      </ul>
+    </li>
+    <li><a href="https://github.com/samandar8283/IPScannerBot">📂 Visit repository</a></li>
+  </ul>
+</details>
+
 ---
 
 ## 📊 GitHub Stats
