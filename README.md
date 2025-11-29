@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a 3rd-year student majoring in **Cybersecurity**
+- 🎓 I'm a 4th-year student majoring in **Cybersecurity**
 - 🌐 I love building real-world **Web** projects
 - 🛠️ Currently exploring **SASS**, **Bootstrap**, **React JS** and **.NET backend**
 - 📝 Also working on a blog project: *JAS Blogs*
